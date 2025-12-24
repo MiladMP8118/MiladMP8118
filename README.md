@@ -47,3 +47,39 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <svg width="100%" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="greenGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+        <stop offset="0%" stop-color="#00ff88">
+          <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" stop-color="#00cc66">
+          <animate attributeName="offset" values="0.5;1.5;0.5" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#009944">
+          <animate attributeName="offset" values="1;2;1" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+
+    <text
+      x="50%"
+      y="50%"
+      dominant-baseline="middle"
+      text-anchor="middle"
+      font-size="96"
+      font-weight="900"
+      font-family="Segoe UI, Inter, Arial, sans-serif"
+      fill="url(#greenGradient)">
+      &lt; 1MB
+    </text>
+  </svg>
+</p>
+
+<p align="center">
+  <b>Ultra-lightweight programs & games</b><br/>
+  Each project under <b>1 megabyte</b>
+</p>
+
